@@ -6,10 +6,10 @@ Python codes for Rovio robot to move autonomously and obstacle avoidance while s
 2. Install pre-requisite packages.
 
 3. To install OpenCV, use:
-  >pip install opencv-python
+      >pip install opencv-python
 
 4. To install Tesseract OCR, use:
-  >pip install pytesseract
+      >pip install pytesseract
 
 5. Make sure to edit the ip of Rovio, the username and password in Main.py (if changed from default)
 
